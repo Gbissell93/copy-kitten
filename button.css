@@ -8,10 +8,13 @@
   margin: 2em;
   border-radius: 15px;
   box-shadow: 0px 5px rgb(8, 53, 165);
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 #button:hover {
   background-color: rgb(34, 150, 213);
   box-shadow: 0px 0px;
+}
+#button:active {
+  background-color: rgb(53, 119, 199);
 }

@@ -1,0 +1,45 @@
+.row {
+  padding: 10px 30px;
+}
+.cell {
+  padding: 5px 15px;
+}
+#cell-1 {
+  border-right: solid 1px black;
+  border-bottom: 1px solid #000;
+}
+#cell-2 {
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+}
+#cell-3 {
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+#cell-4 {
+  border-top: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+#cell-5 {
+  border: 1px solid #000;
+}
+#cell-6 {
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-top: 1px solid #000;
+}
+#cell-7 {
+  border-right: solid 1px #000;
+  border-top: 1px solid #000;
+}
+#cell-8 {
+  border-top: 1px solid #000;
+  border-right: 1px solid #000;
+  border-left: 1px solid #000;
+}
+#cell-9 {
+  border-left: 1px solid #000;
+  border-top: 1px solid #000;
+}

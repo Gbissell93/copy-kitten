@@ -1,0 +1,32 @@
+ul {
+  display: flex;
+  background-color: rgb(60, 68, 77);
+  height: 100px;
+  width: 100%;
+}
+
+#header-link {
+  align-self: center;
+  padding: 200px;
+  margin: 2em;
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+  color: darkgray;
+  margin: 50px;
+}
+
+li a:hover {
+  color: cyan;
+}
+
+#header-container ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+}

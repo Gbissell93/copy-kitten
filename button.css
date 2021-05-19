@@ -1,0 +1,17 @@
+#button {
+  background-color: rgb(53, 119, 199);
+  width: 60%;
+  height: 200px;
+  color: white;
+  text-decoration: none;
+  padding: 20px 30px;
+  margin: 2em;
+  border-radius: 15px;
+  box-shadow: 0px 5px rgb(8, 53, 165);
+  text-transform: uppercase;
+}
+
+#button:hover {
+  background-color: rgb(34, 150, 213);
+  box-shadow: 0px 0px;
+}
